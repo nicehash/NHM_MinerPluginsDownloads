@@ -1,3 +1,3 @@
-NiceHash Miner - Miner Plugins Downloads
+# NiceHash Miner - Miner Plugins Downloads
 
 This repository holds miner plugin builds.
